@@ -30,9 +30,6 @@ To be a great Technical Leader some day, working in an amazing company, with ama
   
   
 
-<img src="https://www.shutterstock.com/image-vector/vector-sketch-cartoon-illustration-fashion-programmer-1673891578" align="left" height="500pixels" width="500pixels" />  
-  
-
 <br/>  
 
 
