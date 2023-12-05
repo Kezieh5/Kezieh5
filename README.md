@@ -30,10 +30,7 @@ To be a great Technical Leader some day, working in an amazing company, with ama
   
   
 
-<img src="https://www.vecteezy.com/vector-art/17294130-continuous-one-line-drawing-happy-girl-kid-programmer-showing-programming-code-the-laptop-on-her-hand-programming-code-concept-single-line-draw-design-vector-graphic-illustration" align="left" height="400pixels" width="500pixels" />  
-  
-
-<img src="https://www.shutterstock.com/image-vector/vector-sketch-cartoon-illustration-fashion-programmer-1673891578" align="left" height="500pixels" width="500 pixels" />  
+<img src="https://www.shutterstock.com/image-vector/vector-sketch-cartoon-illustration-fashion-programmer-1673891578" align="left" height="500pixels" width="500pixels" />  
   
 
 <br/>  
